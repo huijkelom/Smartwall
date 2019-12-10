@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<PathContainer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CallibrationImage>Call.jpeg</CallibrationImage>
+  <DetectionSoftware>DetectionSoftware/InteractiveSurfaceDetectionSoftware.exe</DetectionSoftware>
+  <LocalMenu>LocalMenu/Smartwall.exe</LocalMenu>
+  <BeamerModule>BeamerModule/ProjectorModule.exe</BeamerModule>
+  <BeamerIP>192.168.0.11</BeamerIP>
+  <BeamerPort>1024</BeamerPort>
+  <IsTestSetup>false</IsTestSetup>
+</PathContainer>

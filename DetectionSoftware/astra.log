@@ -1,0 +1,18 @@
+2018-08-31 13:58:44,222 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "\\?\usb#vid_2bc5&pid_0403&mi_00#7&392ef072&0&0000#{c3b5f022-5a42-1980-1909-ea72095601b1}": Failed to send a USB control request!
+
+2018-08-31 13:58:58,640 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "\\?\usb#vid_2bc5&pid_0403&mi_00#7&392ef072&0&0000#{c3b5f022-5a42-1980-1909-ea72095601b1}": Failed to send a USB control request!
+
+2018-08-31 13:59:10,089 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
+2018-08-31 13:59:10,089 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
+2018-09-17 09:56:29,112 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "\\?\usb#vid_2bc5&pid_0403&mi_00#7&18bd2588&0&0000#{c3b5f022-5a42-1980-1909-ea72095601b1}": Failed to receive a USB control request!
+
+2018-09-17 09:56:53,196 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "\\?\usb#vid_2bc5&pid_0403&mi_00#7&18bd2588&0&0000#{c3b5f022-5a42-1980-1909-ea72095601b1}": Failed to receive a USB control request!
+
+2018-09-17 09:58:11,552 ERROR [orbbec.ni.device_streamset] failed to open device: 	Could not open "\\?\usb#vid_2bc5&pid_0403&mi_00#7&18bd2588&0&0000#{c3b5f022-5a42-1980-1909-ea72095601b1}": Failed to receive a USB control request!
+
+2018-10-23 10:03:32,924 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
+2018-10-23 10:03:32,947 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
+2019-02-14 10:07:16,530 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
+2019-02-14 10:07:16,540 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
+2019-02-14 10:31:03,105 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
+2019-02-14 10:31:03,105 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
