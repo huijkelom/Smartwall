@@ -3,3 +3,7 @@ Games/
 Games/*
 Modules/
 Modules/*
+PINs.xml
+DetectionSoftware/BaseDepth.xml
+DetectionSoftware/PlayArea.xml
+DetectionSoftware/Settings.xml

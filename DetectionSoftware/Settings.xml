@@ -5,9 +5,9 @@
   <FlipVertically>true</FlipVertically>
   <DetectionBleed>true</DetectionBleed>
   <DetectionRangeFromWall>250</DetectionRangeFromWall>
-  <HightOffset>20</HightOffset>
+  <HightOffset>0</HightOffset>
   <MinimalObjectSize>7</MinimalObjectSize>
-  <RecallThreshold>10</RecallThreshold>
+  <RecallThreshold>5</RecallThreshold>
   <TcpOutputPort>3000</TcpOutputPort>
   <CallibratorMargen>100</CallibratorMargen>
   <CallibrationOutputPort>3010</CallibrationOutputPort>
