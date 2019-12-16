@@ -3,6 +3,8 @@ Games/
 Games/*
 Modules/
 Modules/*
+LocalMenu/
+LocalMenu/*
 PINs.xml
 DetectionSoftware/BaseDepth.xml
 DetectionSoftware/PlayArea.xml
