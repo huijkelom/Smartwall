@@ -23,7 +23,7 @@
     <string>Beamer</string>
     <string>Status: </string>
     <string>Volume</string>
-    <string>Sensor</string>
+    <string>Refresh Distance</string>
     <string>Advanced settings</string>
     <string>Ball size</string>
     <string>Language</string>
@@ -48,6 +48,20 @@
     <string>Difficulty</string>
     <string>| Not all games support all settings.</string><string>Switch source</string>
 <string>Set play area</string>
+<string>System is starting.&#xD;&#xA;Please wait...</string>
+<string>Waiting for system connection.</string>
+<string>Lost connection.&#xD;&#xA;Reconnecting...</string>
+<string>Waiting for system to be ready.</string>
+<string>Retrieving game data.</string>
+<string>Retrieving beamer status.</string>
+<string>Retrieving sensor settings.</string>
+<string>Retrieving play area settings.</string>
+<string>Preparing for user.</string>
+<string>Play Area</string>
+<string>Depth</string>
+<string>Detection</string>
+<string>Objects</string>
+<string>Require Pin</string>
   </Texts>
   <Images />
   <AudioFiles />

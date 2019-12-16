@@ -38,17 +38,31 @@
     <string>Effacer les PIN</string>
     <string>Beamer est actuellement: </string>
     <string>Utilisation de la lampe Beamer: </string>
-    <string>Play area calibration</string>
+    <string>Indiquer l'aire de jeu</string>
     <string>Distance</string>
-    <string>Height offset</string>
-    <string>Check Detection</string>
-    <string>Tap the corners of the play area in the image on the right. Once you have the area marked press the "Set play area" button.</string>
-    <string>Game Options</string>
-    <string>Players</string>
-    <string>Difficulty</string>
-    <string>| Not all games support all settings.</string>
-<string>Switch source</string>
+    <string>Correction de la hauteur</string>
+    <string>Vérifier la détection</string>
+    <string>Tapez sur les coins de la zone de jeu dans l'image ci-contre. Si la case rouge correspond à l'aire de jeu, appuyez sur.</string>
+    <string>Options de jeu</string>
+    <string>Les joueurs</string>
+    <string>Niveau</string>
+    <string>| Pas tous les jeux supportent toutes les options.</string>
+<string>Changer de source</string>
 <string>Acceptez</string>
+<string>Le système démarre.&#xD;&#xA;Veuillez patienter...</string>
+<string>En attente de connexion système.</string>
+<string>Connexion perdue.&#XD;&#xA;Reconnexion en cours...</string>
+<string>En attente que le système soit prêt.</string>
+<string>Récupération des données de jeu.</string>
+<string>Récupération du statut du beamer.</string>
+<string>Récupération des paramètres du capteur.</string>
+<string>Récupération des paramètres de la zone de lecture.</string>
+<string>Préparation pour l'utilisateur.</string>
+<string>Play Area</string>
+<string>Depth</string>
+<string>Detection</string>
+<string>Objects</string>
+<string>Pin required</string>
   </Texts>
   <Images />
   <AudioFiles />

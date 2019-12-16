@@ -23,7 +23,7 @@
     <string>Beamer</string>
     <string>Status: </string>
     <string>Volume</string>
-    <string>Sensor</string>
+    <string>Scan Afstand</string>
     <string>Geavanceerde instellingen</string>
     <string>Bal grootte</string>
     <string>Taal</string>
@@ -41,10 +41,7 @@
     <string>Speelgebied</string>
     <string>Diepte</string>
     <string>Offset</string>
-<string>Speel gebied aangeven</string>
-    <string>Afstand</string>
-    <string>Hoogte Correctie</string>
-    <string>Check Detectie</string>
+<string>Detectie</string>
     <string>Tik op de hoeken van het speel gebied in de afbeelding hier naast. Als het rode vak overeen komt met het speel gebied druk dan op "Instellen".</string>
     <string>Spel opties</string>
     <string>Spelers</string>
@@ -52,6 +49,21 @@
     <string>| Niet alle spellen ondersteunen alle opties.</string>
 <string>Verander bron</string>
 <string>Instellen</string>
+<string>System start op.&#xD;&#xA;Even geduld...</string>
+<string>Wachten op verbinding.</string>
+<string>Verbinding verloren.&#xD;&#xA;Herverbinden...</string>
+<string>Wachten tot het systeem klaar is.</string>
+<string>Spel data ophalen.</string>
+<string>Beamer status ophalen.</string>
+<string>Sensor instelling ophalen.</string>
+<string>Speelgebeid ophalen.</string>
+<string>Voorbereiden voor gebruik.</string>
+<string>Speel gebied</string>
+<string>Diepte</string>
+<string>Detectie</string>
+<string>Objecten</string>
+<string>Pin vereist</string>
+
   </Texts>
   <Images />
   <AudioFiles />

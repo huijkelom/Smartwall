@@ -2,7 +2,7 @@
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
 <string>Games.png</string>
 <string>Sport.png</string>
-<string>PEGame.png</string>
+<string>OnderwijsBasis.png</string>
 <string>Educatie.png</string>
 <string>Tools.png</string>
 <string>WIP.png</string>
@@ -10,7 +10,7 @@
 <string>Blik.png</string>
 <string>Break.png</string>
 <string>BugSplat.png</string>
-<string>Basketbal.png</string>
+<string>Basketball.png</string>
 <string>Basketbal2.png</string>
 <string>Handbal.png</string>
 <string>Hockey.png</string>
