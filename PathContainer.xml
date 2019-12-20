@@ -4,7 +4,7 @@
   <DetectionSoftware>DetectionSoftware/InteractiveSurfaceDetectionSoftware.exe</DetectionSoftware>
   <LocalMenu>LocalMenu/Smartwall.exe</LocalMenu>
   <BeamerModule>BeamerModule/ProjectorModule.exe</BeamerModule>
-  <BeamerIP>192.168.0.11</BeamerIP>
+  <BeamerIP>192.168.0.129</BeamerIP>
   <BeamerPort>1024</BeamerPort>
   <IsTestSetup>true</IsTestSetup>
 </PathContainer>
