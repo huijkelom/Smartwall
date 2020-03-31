@@ -18,12 +18,12 @@
 <string>HonkbalWorp</string>
 <string>Tennis</string>
 <string>TennisVrij</string>
-<string>Voetbal</string>
+<string>Voetball</string>
 <string>Volleyball</string>
 <string>Scoreboard</string>
-<string>Signal</string>
-<string>Stopwatch</string>
 <string>Timer</string>
+<string>Stopwatch</string>
+<string>NaN</string>
 <string>Groep1-2</string>
 <string>Groep3-4</string>
 <string>Groep5-6</string>
