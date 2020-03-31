@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-<string>Games</string>
-<string>Sport</string>
+<string>Leisure</string>
+<string>Sports</string>
 <string>BOGame</string>
 <string>Educatie</string>
 <string>Tools</string>
 <string>WIP</string>
-<string>Tetris</string>
-<string>Blik</string>
-<string>Break</string>
+<string>FallingBlocks</string>
+<string>CanToss</string>
+<string>BreakingGlass</string>
 <string>BugSplat</string>
 <string>Basketball</string>
 <string>Basketbal2</string>
@@ -19,8 +19,8 @@
 <string>Tennis</string>
 <string>TennisVrij</string>
 <string>Voetbal</string>
-<string>Volleybal</string>
-<string>Scorebord</string>
+<string>Volleyball</string>
+<string>Scoreboard</string>
 <string>Signal</string>
 <string>Stopwatch</string>
 <string>Timer</string>
@@ -41,7 +41,7 @@
 <string>GeoPuzzel</string>
 <string>Paardenbloem</string>
 <string>Spotlicht</string>
-<string>FruitShooter</string>
+<string>FruutShoot</string>
 <string>CastleAttack</string>
 <string>Bossfight</string>
 <string>Darten</string>
@@ -50,4 +50,13 @@
 <string>Muziek</string>
 <string>Quiz</string>
 <string>Chess</string>
+<string>SailAway</string>
+<string>Darts</string>
+<string>MoveGame</string>
+<string>ShootoutColourFight</string>
+<string>ShootoutTimed</string>
+<string>ShootoutCorners</string>
+<string>ShootoutClearGoal</string>
+<string>ShootoutRandomTarget</string>
+<string>ShootoutPrecisionTarget</string>
 </ArrayOfString>
