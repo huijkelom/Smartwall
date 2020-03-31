@@ -59,4 +59,5 @@
 <string>ShootoutClearGoal</string>
 <string>ShootoutRandomTarget</string>
 <string>ShootoutPrecisionTarget</string>
+<string>PEGame</string>
 </ArrayOfString>
