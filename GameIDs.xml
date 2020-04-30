@@ -52,12 +52,12 @@
 <string>Chess</string>
 <string>SailAway</string>
 <string>Darts</string>
-<string>MoveGame</string>
+<string>MoveIt</string>
 <string>ShootoutColourFight</string>
 <string>ShootoutTimed</string>
 <string>ShootoutCorners</string>
 <string>ShootoutClearGoal</string>
 <string>ShootoutRandomTarget</string>
 <string>ShootoutPrecisionTarget</string>
-<string>PEGame</string>
+<string>Targets</string>
 </ArrayOfString>
