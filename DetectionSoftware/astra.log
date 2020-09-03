@@ -28,3 +28,7 @@
 2019-10-04 12:09:20,995 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
 2019-10-04 12:09:33,821 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
 2019-10-04 12:09:33,821 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
+2020-07-17 12:33:53,813 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
+2020-07-17 12:33:53,849 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
+2020-07-17 12:36:29,158 ERROR [orbbec.ni.WmfColorStream] WMF device has no compatible stream profiles.
+2020-07-17 12:36:29,158 ERROR [orbbec.ni.device_streamset] could not open wmf color stream
